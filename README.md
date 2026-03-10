@@ -2,7 +2,7 @@
 
 Este repositório apresenta um **projeto de estudo** que combina o poder do **Django**, um framework de desenvolvimento web robusto, com o **Streamlit**, um framework para criação de aplicativos interativos voltado para ciência de dados. O objetivo deste projeto é explorar como integrar essas ferramentas para construir soluções ágeis e interativas.
 
-## 💡 **Sobre o Projeto**
+## **Sobre o Projeto**
 
 Este projeto foi desenvolvido para demonstrar como o Django pode ser utilizado em conjunto com o Streamlit para:
 
@@ -12,20 +12,20 @@ Este projeto foi desenvolvido para demonstrar como o Django pode ser utilizado e
 
 Trata-se de um projeto **acadêmico e experimental**, ideal para desenvolvedores que estão se aventurando na criação de dashboards dinâmicos com **Streamlit** e **Django**.
 
-## 🚀 **Principais Funcionalidades**
+## **Principais Funcionalidades**
 
 - Integração de um backend Django com uma interface Streamlit.
 - Visualizações interativas de dados com gráficos e tabelas.
 - Rápida prototipação de ferramentas de análise de dados.
 
-## 🛠️ **Tecnologias Utilizadas**
+## **Tecnologias Utilizadas**
 
 - [Python](https://www.python.org/) 3.9+
 - [Django](https://www.djangoproject.com/) 4.x
 - [Streamlit](https://streamlit.io/) 1.x
 - Banco de dados SQLite (padrão para estudos)
 
-## 🗂️ **Estrutura do Projeto**
+## **Estrutura do Projeto**
 
 ```plaintext
 streamlit-django-project/
@@ -45,7 +45,7 @@ streamlit-django-project/
 └── settings.py            # Configurações do projeto Django
 ```
 
-## ⚙️ **Configuração e Execução**
+## **Configuração e Execução**
 
 ### **1. Configurar o ambiente virtual**
 
@@ -92,21 +92,21 @@ streamlit run streamlit/app.py
 - Painel Django Admin: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
 - Interface Streamlit: [http://localhost:8501](http://localhost:8501)
 
-## 📚 **Propósito Educacional**
+## **Propósito Educacional**
 
 Este projeto é **exclusivamente para fins de aprendizado**. Ele demonstra a integração entre Django e Streamlit como forma de facilitar o desenvolvimento de aplicativos de ciência de dados interativos.
 
-## 🌟 **Próximos Passos**
+## **Próximos Passos**
 
 - Implementar visualizações mais complexas e interativas no Streamlit.
 - Explorar a integração de APIs para alimentar a aplicação com dados externos.
 - Criar testes automatizados para validação de funcionalidades.
 
-## 📄 **Licença**
+## **Licença**
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para utilizá-lo, modificá-lo e melhorá-lo para seus próprios estudos e experimentos.
 
 ---
 
-💻 Desenvolvido por [Carlos Alberto Medeiros](https://www.linkedin.com/in/carlos-alberto-medeiros-29aa6258/)  
-🌟 Experimente o potencial de **Django + Streamlit** para projetos interativos de ciência de dados!
+Desenvolvido por [Carlos Alberto Medeiros](https://www.linkedin.com/in/carlos-alberto-medeiros-29aa6258/)  
+Experimente o potencial de **Django + Streamlit** para projetos interativos de ciência de dados!
