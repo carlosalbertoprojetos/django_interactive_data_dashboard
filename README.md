@@ -1,4 +1,6 @@
-# Django + Streamlit Study Project
+# Django Streamlit Dashboard
+
+## Django + Streamlit Study Project
 
 Este repositório apresenta um **projeto de estudo** que combina o poder do **Django**, um framework de desenvolvimento web robusto, com o **Streamlit**, um framework para criação de aplicativos interativos voltado para ciência de dados. O objetivo deste projeto é explorar como integrar essas ferramentas para construir soluções ágeis e interativas.
 
