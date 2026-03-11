@@ -1,4 +1,4 @@
-# Django Streamlit Dashboard
+# Django Interactive Data Dashboard
 
 ## Django + Streamlit Study Project
 
